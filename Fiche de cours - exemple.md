@@ -2,9 +2,9 @@
 
 ## Informations étudiant·e
 
-- **Nom :**
+- **Nom : Vannier-Limodin **
 
-- **Prénom :**
+- **Prénom :* Margot *
 
 
 
