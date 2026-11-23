@@ -88,11 +88,15 @@
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 **JOUR 1 :**
-**Prise de note et Premières idées**
+**Prise de note et premières idées**
 
 **Photos premier croquis:**
 
 <img src="img/notes.jpg" alt="Prise de notes">
+
+**Mots clés**
+
+AR - Intéraction
 
 
 ### JJ/MM/AAAA
