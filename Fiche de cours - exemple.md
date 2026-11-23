@@ -6,8 +6,6 @@
 
 - **Prénom :Margot**
 
-
-
 ## Profil et connaissances
 
 ### Présentation personnelle
