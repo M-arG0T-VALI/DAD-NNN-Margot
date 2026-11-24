@@ -4,7 +4,7 @@
 
 - **Nom : Vannier-limodin**
 
-- **Prénom :Margot**
+- **Prénom : Margot**
 
 ## Profil et connaissances
 
@@ -87,16 +87,38 @@
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
-**JOUR 1 :**
-**Prise de note et premières idées**
+**JOUR 1 : 23/11/2026**
 
-**Photos premier croquis:**
+**Prise de note et premières idées**
+<br>
+**Photos premier croquis :**
 
 <img src="img/notes.jpg" alt="Prise de notes">
 
+prise en main de GitHub 
+
 **Mots clés**
 
-AR - Intéraction
+AR - Intéraction - balade - IA
+
+**JOUR 2 : 24/11/2026**
+
+- **Ce que j'ai fait :**
+
+En explorant de nombreux sites internets (webographie des plus intéréssant en fin de journée) 
+
+Reflexions 
+<br>
+Les hommes cherchent toujours à simplifier leur quotidien dès le début même de l’humanité mais c’est aussi peut être ce qui causera sa perte…
+l’ia, l’ia generative, l’ia analytique et j’en passe sont des outils formidables sur le papier; elles nous permettent de nous libérer de tâche ingrates, redondantes et pénibles 
+
+Mais n'est ce pas ce qui caractérise l’homme, réfléchir penser trouver des solutions, ou bien ne pas en trouver et partir sur autre chose puis finalement trouver et revenir sur notre idée de départ. C’est peut être ces cheminements de penser qui font de nous des être humain à part entière différents et uniques les uns des autres. 
+- **Problèmes rencontrés :**
+- **Prochaine étape :**
+- **Captures / liens :**
+
+
+
 
 
 ### JJ/MM/AAAA
