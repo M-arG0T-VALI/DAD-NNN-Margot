@@ -100,9 +100,9 @@ prise en main de GitHub, assimilation de push and pull
 **Mots clés**
 
 AR - Intéraction - jeu - IA - 
-chercher a rendre l'ar plus intéracctif, aller plus loin que l'"activation" de vidéo/gif. 
-comment faire?
-trouver des references cohérentes et pertinente avec ma vision de cette pratique.
+chercher a rendre l'AR plus intéractif, aller plus loin que l'"activation" de vidéo/gif. 
+comment faire ?
+trouver des ré  ferences cohérentes et pertinente avec ma vision de cette pratique.
 
 **JOUR 2 : 24/11/2026**
 
@@ -130,6 +130,7 @@ obligation d'avancer sur les ordinaeur de l'école
 - **Prochaine étape :**
 
 Faire des tests de Réalité augmenté simple sur Unity pour ensuite amener à de simples interractions.
+
 - **Captures / liens :**
 
 Futur of life institut, https://futureoflife.org/fr/ 
@@ -152,9 +153,28 @@ https://learn.unity.com/tutorial/configure-your-ar-development-environment?signu
 photos carte mentale du projet à ajouter
 
 
+**JOUR 3** : 25/11/2026
+
+- **Ce que j'ai fait :**
+
+Retour sur le tuto AR Unity, installation du débogage mode USB sur mon téléphone. Créations de l'application AR-Unity puis première tentative avec les formes de bases donnée dans l'application 
+
+Cours prise de note RAM-CPU-GPU :
+
+Recherche et Compréhenssion du MCP server, son utilitée, quelle IA est la plus qualifiée pour m'aider à 
+
+
+- **Problèmes rencontrés :**
+
+Quelques soucis de prise en main pour une première, qui devrait ce régler d'ici la fin de semaine en continuant la formation sur internet (tuto vidéo, écrit).
 
 
 
+
+- **Prochaine étape :**
+
+
+- **Captures / liens :**
 
 
 ### JJ/MM/AAAA
