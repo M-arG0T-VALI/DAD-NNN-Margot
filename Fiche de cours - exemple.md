@@ -73,9 +73,9 @@
 ### Planning de travail
 
 - Établissez un planning des étapes clés de votre projet :
-  - **Étape 1 :** date et description
-  - **Étape 2 :** date et description
-  - **Étape 3 :** date et description
+  - **Étape 1 :** Semaine du 22/27 novembre - Recherches, documentation - AR Unity - maquettes -  
+  - **Étape 2 :** Semaine du 30/4 decembre - Mise en plce de code et scénario/gameplay de l'application okay - ébauche edition intéractive
+  - **Étape 3 :** Semaine 7/12 decembre - dernière semaine - fin de mise en page et impression édition itéractive - réponse aux questions ou non bilan de fin d'intensifs et ouvertures.
 
 
 
@@ -87,22 +87,44 @@
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
-**JOUR 1 : 23/11/2026**
+**JOUR 4** : am-27/11/2026 (mix 26/11/2026)
 
-**Prise de note et premières idées**
-<br>
-**Photos premier croquis :**
+- **Ce que j'ai fait :**
 
-<img src="img/notes.jpg" alt="Prise de notes" width="500"> 
 
-prise en main de GitHub, assimilation de push and pull 
 
-**Mots clés**
 
-AR - Intéraction - jeu - IA - 
-chercher a rendre l'AR plus intéractif, aller plus loin que l'"activation" de vidéo/gif. 
-comment faire ?
-trouver des ré  ferences cohérentes et pertinente avec ma vision de cette pratique.
+- **Problèmes rencontrés :**
+
+
+- **Prochaine étape :**
+Ce week-end, blender
+
+
+- **Captures / liens :**
+
+**JOUR 3** : pm-25/11/2026
+
+- **Ce que j'ai fait :**
+
+Retour sur le tuto AR Unity, installation du débogage mode USB sur mon téléphone. Créations de l'application AR-Unity puis première tentative avec les formes de bases donnée dans l'application 
+
+Cours prise de note RAM-CPU-GPU :
+
+discution avec Ange pour son projet
+
+Recherche et Compréhenssion du MCP server, son utilitée, quelle IA est la plus qualifiée pour m'aider à approfondir mes recherches et expérimentations
+
+
+- **Problèmes rencontrés :**
+
+Quelques soucis de prise en main pour une première, qui devrait ce régler d'ici la fin de semaine en continuant la documentation sur internet (tuto vidéo, écrit).
+
+
+- **Prochaine étape :**
+
+Me fixer sur idée plus concrète de ce que je veux faire - peut etre réaliser un jeu simple qui sera plus tard compatible AR mais pour l'instant tester les interactions avec les quelles je souhaite explorer l'AR interactif ! (cela me permettra egalement de coder et de me faire une premiere idée du rendu visuel que cela peut donner) (surtout week-end 28-29/ nov)
+
 
 **JOUR 2 : 24/11/2026**
 
@@ -153,28 +175,22 @@ https://learn.unity.com/tutorial/configure-your-ar-development-environment?signu
 photos carte mentale du projet à ajouter
 
 
-**JOUR 3** : 25/11/2026
+**JOUR 1 : 23/11/2026**
 
-- **Ce que j'ai fait :**
+**Prise de note et premières idées**
+<br>
+**Photos premier croquis :**
 
-Retour sur le tuto AR Unity, installation du débogage mode USB sur mon téléphone. Créations de l'application AR-Unity puis première tentative avec les formes de bases donnée dans l'application 
+<img src="img/notes.jpg" alt="Prise de notes" width="500"> 
 
-Cours prise de note RAM-CPU-GPU :
+prise en main de GitHub, assimilation de push and pull 
 
-Recherche et Compréhenssion du MCP server, son utilitée, quelle IA est la plus qualifiée pour m'aider à 
+**Mots clés**
 
-
-- **Problèmes rencontrés :**
-
-Quelques soucis de prise en main pour une première, qui devrait ce régler d'ici la fin de semaine en continuant la formation sur internet (tuto vidéo, écrit).
-
-
-
-
-- **Prochaine étape :**
-
-
-- **Captures / liens :**
+AR - Intéraction - jeu - IA - 
+chercher a rendre l'AR plus intéractif, aller plus loin que l'"activation" de vidéo/gif. 
+comment faire ?
+trouver des ré  ferences cohérentes et pertinente avec ma vision de cette pratique.
 
 
 ### JJ/MM/AAAA
