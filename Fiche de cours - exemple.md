@@ -74,7 +74,7 @@
 
 - Établissez un planning des étapes clés de votre projet :
   - **Étape 1 :** Semaine du 22/27 novembre - Recherches, documentation - AR Unity - maquettes -  
-  - **Étape 2 :** Semaine du 30/4 decembre - Mise en plce de code et scénario/gameplay de l'application okay - ébauche edition intéractive
+  - **Étape 2 :** Semaine du 30/4 decembre - Mise en plce de code et scénario/gameplay de l'application okay une intéraction par jour - AR - ébauche edition intéractive
   - **Étape 3 :** Semaine 7/12 decembre - dernière semaine - fin de mise en page et impression édition itéractive - réponse aux questions ou non bilan de fin d'intensifs et ouvertures.
 
 
@@ -91,14 +91,87 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 - **Ce que j'ai fait :**
 
+Point philosophique fondamental : la valeur de l'effort cognitif et du tâtonnement.
 
+En philosophie de la technique, ce que tu décris porte un nom : le risque de « prolétarisation » des savoirs (concept développé par Bernard Stiegler), c'est-à-dire le fait que l'outil ne se contente plus d'augmenter nos capacités physiques (comme la roue ou la grue), mais qu'il prend en charge notre faculté de juger, d'hésiter et de créer.
+
+Tu soulignes avec justesse que l'erreur, le détour et l'impasse ne sont pas des « bugs » de la pensée humaine, mais son moteur même. C'est souvent en cherchant une solution A qu'on découvre par hasard une idée B bien plus féconde (la sérendipité). Si l'IA nous livre instantanément un résultat lisse et optimisé, elle risque d'atrophier ce muscle de la recherche intérieure. Ton texte a donc une vraie justesse : il pose la question de savoir si l'humain se définit par le résultat qu'il produit ou par le chemin qu'il emprunte pour y arriver.
+
+
+→ jeu AR sans concrétisation finale a première vue ??
+
+Regards positifs : L'IA comme amplificateur et partenaire de création
+Plusieurs penseurs, artistes et chercheurs voient dans l'IA non pas un remplaçant, mais un « exosquelette cognitif » ou un nouveau pinceau qui déplace la créativité humaine plutôt que de la détruire.
+
+Refik Anadol (Artiste numérique) :
+
+ Il utilise des algorithmes d'IA pour transformer d'immenses bases de données (archives de la NASA, souvenirs humains, données climatiques) en « sculptures de données » monumentales et poétiques. Pour lui, l'IA est un « pinceau pensant » qui permet de visualiser l'invisible et de créer une nouvelle forme d'empathie collective.
+<img src="img/27-01.png" alt="Prise de notes" width="500"> 
+
+
+Ethan Mollick (Chercheur à Wharton, auteur de Co-Intelligence) : Dans cet ouvrage de référence (2024), il défend l'idée d'une intelligence hybride. Selon lui, la meilleure façon d'utiliser l'IA n'est pas de lui déléguer le travail, mais de l'utiliser comme un « sparring-partner » intellectuel qui nous force à affiner nos propres idées en confrontant nos points de vue aux siens.
+
+<img src="img/27-02.png" alt="Prise de notes" width="350"> 
+
+
+Holly Herndon (Musicienne et chercheuse) : Elle a créé Spawn, un « bébé IA » entraîné sur sa propre voix, avec lequel elle compose en duo. Elle milite pour une approche où les artistes entraînent leurs propres modèles éthiques pour explorer des territoires sonores impossibles à atteindre seuls.
+<img src="img/27-03.png" alt="Prise de notes" width="400"> 
+
+
+Yann LeCun (Chercheur en IA) : Il rappelle souvent que l'IA actuelle manque de bon sens et de compréhension du monde physique. Il la voit comme un outil qui va libérer l'humanité des tâches répétitives pour ouvrir une « nouvelle Renaissance » scientifique et culturelle.
+
+<img src="img/27-04.png" alt="Prise de notes" width="350"> 
+
+Regards critiques : Le risque d'uniformisation et de perte de sens
+Pour nuancer ta réflexion, d'autres voix alertent précisément sur ce que tu redoutes : l'appauvrissement de la pensée humaine et la standardisation du monde.
+
+Éric Sadin (Philosophe français) : Dans des essais comme La Vie spectrale (2023), il dénonce le basculement vers une « humanité assistée ». Selon lui, en déléguant la parole, l'écriture et la décision à des systèmes génératifs, nous renonçons à notre souveraineté intellectuelle et à la singularité de notre rapport au monde. 
+
+<img src="img/27-05.png" alt="Prise de notes" width="700"> 
+
+Ted Chiang (Écrivain de science-fiction) : Dans des essais très remarqués pour le New Yorker (notamment « Why A.I. Isn’t Going to Make Art »), il explique que l'art et l'écriture consistent à faire des milliers de micro-choix conscients. Utiliser une IA générative, c'est renoncer à ces choix et donc vider l'œuvre de son intention humaine. https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
+ 
+
+Byung-Chul Han (Philosophe) : Bien qu'il écrive plus largement sur le numérique, sa critique de la « société de la transparence et de la performance » éclaire ton propos : le numérique élimine la négativité, l'attente et la résistance du réel, qui sont pourtant indispensables à la maturation de la pensée profonde.
+
+<img src="img/27-06.png" alt="Prise de notes" width="350">
+
+
+Ressources pour nourrir réflexion
+
+À lire :
+
+Essai : Co-Intelligence : Vivre et travailler avec l'IA d'Ethan Mollick (très concret et optimiste sur la collaboration homme-machine).
+
+Article : « Why A.I. Isn't Going to Make Art » de Ted Chiang (publié dans The New Yorker, accessible en ligne — une analyse chirurgicale sur le rôle du cheminement créatif).
+
+Essai critique : La Vie spectrale : Penser l'ère du métavers et des IA génératives d'Éric Sadin.
+
+À voir (Films et documentaires) :
+
+Her (Spike Jonze, 2013) : Un film visionnaire sur la relation intime, émotionnelle et créative entre un homme (dont le métier est d'écrire des lettres sensibles pour les autres) et une IA.
+
+AlphaGo (Greg Kohs, 2017) : Ce documentaire raconte l'affrontement entre l'IA de DeepMind et le champion du monde de Go, Lee Sedol. Le « coup 37 » joué par la machine a bouleversé les joueurs humains, leur montrant que l'IA pouvait inspirer de nouvelles façons de penser plutôt que simplement écraser l'humain.
+
+After Yang (Kogonada, 2021) : Un film contemplatif et poétique qui interroge la mémoire, la transmission et ce qui fait la valeur d'une existence à travers un androïde familial en panne.
+
+
+
+À écouter / regarder en vidéo :
+
+Les conférences TED de Refik Anadol sur l'art généré par les données (« Art in the age of machine intelligence »).
+
+Les interventions de Raphaël Enthoven ou Gaspard Koenig sur France Culture autour de la question : « L'IA peut-elle penser ou seulement calculer ? ».
+Si tu souhaites approfondir un angle précis de ton texte (par exemple la question de la créativité artistique, celle du travail ou l'aspect purement philosophique), on peut creuser ensemble.
 
 
 - **Problèmes rencontrés :**
+Trouver concept plus concret, et mécanisme de jeux lien humain-AI
 
 
 - **Prochaine étape :**
-Ce week-end, blender
+Ce week-end, blender premier modèle 3D,
+finir web site code intéraction humaine
 
 
 - **Captures / liens :**
