@@ -74,7 +74,7 @@
 
 - Établissez un planning des étapes clés de votre projet :
   - **Étape 1 :** Semaine du 22/27 novembre - Recherches, documentation - AR Unity - maquettes -  
-  - **Étape 2 :** Semaine du 30/4 decembre - Mise en plce de code et scénario/gameplay de l'application okay une intéraction par jour - AR - ébauche edition intéractive
+  - **Étape 2 :** Semaine du 30/4 decembre - Mise en place de code et scénario/gameplay de l'application okay une intéraction par jour - ARUnity - ébauche édition intéractive pour restitution documentation
   - **Étape 3 :** Semaine 7/12 decembre - dernière semaine - fin de mise en page et impression édition itéractive - réponse aux questions ou non bilan de fin d'intensifs et ouvertures.
 
 
@@ -87,15 +87,14 @@
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
-**JOUR 4** : am-27/11/2026 (mix 26/11/2026)
+**JOUR 4** : am-27/11/2026 (+ mix du am-26/11/2026)
 
 - **Ce que j'ai fait :**
 
-Point philosophique fondamental : la valeur de l'effort cognitif et du tâtonnement.
-
-En philosophie de la technique, ce que tu décris porte un nom : le risque de « prolétarisation » des savoirs (concept développé par Bernard Stiegler), c'est-à-dire le fait que l'outil ne se contente plus d'augmenter nos capacités physiques (comme la roue ou la grue), mais qu'il prend en charge notre faculté de juger, d'hésiter et de créer.
-
-Tu soulignes avec justesse que l'erreur, le détour et l'impasse ne sont pas des « bugs » de la pensée humaine, mais son moteur même. C'est souvent en cherchant une solution A qu'on découvre par hasard une idée B bien plus féconde (la sérendipité). Si l'IA nous livre instantanément un résultat lisse et optimisé, elle risque d'atrophier ce muscle de la recherche intérieure. Ton texte a donc une vraie justesse : il pose la question de savoir si l'humain se définit par le résultat qu'il produit ou par le chemin qu'il emprunte pour y arriver.
+**Gemini** :
+*Point philosophique fondamental : la valeur de l'**effort cognitif et du tâtonnement**. 
+<br>En philosophie de la technique, ce que tu décris porte un nom : le risque de « prolétarisation » des savoirs (concept développé par Bernard Stiegler), c'est-à-dire le fait que l'outil ne se contente plus d'augmenter nos capacités physiques (comme la roue ou la grue), mais qu'il prend en charge notre faculté de juger, d'hésiter et de créer.
+Tu soulignes avec justesse que l'erreur, le détour et l'impasse ne sont pas des « bugs » de la pensée humaine, mais son moteur même. C'est souvent en cherchant une solution A qu'on découvre par hasard une idée B bien plus féconde (la sérendipité). Si l'IA nous livre instantanément un résultat lisse et optimisé, elle risque d'atrophier ce muscle de la recherche intérieure. Ton texte a donc une vraie justesse : il pose la question de savoir si l'humain se définit par le résultat qu'il produit ou par le chemin qu'il emprunte pour y arriver.*
 
 
 → jeu AR sans concrétisation finale a première vue ??
@@ -106,6 +105,7 @@ Plusieurs penseurs, artistes et chercheurs voient dans l'IA non pas un remplaça
 Refik Anadol (Artiste numérique) :
 
  Il utilise des algorithmes d'IA pour transformer d'immenses bases de données (archives de la NASA, souvenirs humains, données climatiques) en « sculptures de données » monumentales et poétiques. Pour lui, l'IA est un « pinceau pensant » qui permet de visualiser l'invisible et de créer une nouvelle forme d'empathie collective.
+
 <img src="img/27-01.png" alt="Prise de notes" width="500"> 
 
 
@@ -115,6 +115,7 @@ Ethan Mollick (Chercheur à Wharton, auteur de Co-Intelligence) : Dans cet ouvra
 
 
 Holly Herndon (Musicienne et chercheuse) : Elle a créé Spawn, un « bébé IA » entraîné sur sa propre voix, avec lequel elle compose en duo. Elle milite pour une approche où les artistes entraînent leurs propres modèles éthiques pour explorer des territoires sonores impossibles à atteindre seuls.
+
 <img src="img/27-03.png" alt="Prise de notes" width="400"> 
 
 
@@ -139,7 +140,7 @@ Byung-Chul Han (Philosophe) : Bien qu'il écrive plus largement sur le numériqu
 
 Ressources pour nourrir réflexion
 
-À lire :
+**À lire** :
 
 Essai : Co-Intelligence : Vivre et travailler avec l'IA d'Ethan Mollick (très concret et optimiste sur la collaboration homme-machine).
 
@@ -147,7 +148,7 @@ Article : « Why A.I. Isn't Going to Make Art » de Ted Chiang (publié dans The
 
 Essai critique : La Vie spectrale : Penser l'ère du métavers et des IA génératives d'Éric Sadin.
 
-À voir (Films et documentaires) :
+**Films et documentaires** :
 
 Her (Spike Jonze, 2013) : Un film visionnaire sur la relation intime, émotionnelle et créative entre un homme (dont le métier est d'écrire des lettres sensibles pour les autres) et une IA.
 
@@ -155,26 +156,29 @@ AlphaGo (Greg Kohs, 2017) : Ce documentaire raconte l'affrontement entre l'IA de
 
 After Yang (Kogonada, 2021) : Un film contemplatif et poétique qui interroge la mémoire, la transmission et ce qui fait la valeur d'une existence à travers un androïde familial en panne.
 
-
-
-À écouter / regarder en vidéo :
+**Podcast, video**
 
 Les conférences TED de Refik Anadol sur l'art généré par les données (« Art in the age of machine intelligence »).
 
 Les interventions de Raphaël Enthoven ou Gaspard Koenig sur France Culture autour de la question : « L'IA peut-elle penser ou seulement calculer ? ».
 Si tu souhaites approfondir un angle précis de ton texte (par exemple la question de la créativité artistique, celle du travail ou l'aspect purement philosophique), on peut creuser ensemble.
 
+**Premiers test d'interactions**
+
+le retour sur expérience de l'épluchage de fruit pour obtenir un code:
+<br>
+En demandant simplement a l'IA d'éplucher un fruit, il ne représente pas cette action comme on l'imagine, en pelant la peau tout de suite. Sa première idée est d'effacer la peau, un peu comme pourrait foncitonner une gomme. Ensuite il desintègre la peau par carrés de textures.
+Pour enfin en lui décrivant chaque détails arriver a un epluchage plus "humain", tel qu'on le connait, bien qu'encore très robotique.
 
 - **Problèmes rencontrés :**
 Trouver concept plus concret, et mécanisme de jeux lien humain-AI
 
 
 - **Prochaine étape :**
-Ce week-end, blender premier modèle 3D,
-finir web site code intéraction humaine
+Ce week-end,pour lundi, blender premier modèle 3D,
+Finir web site code intéraction d'action "humaine"
+Trier Grands Thèmes
 
-
-- **Captures / liens :**
 
 **JOUR 3** : pm-25/11/2026
 
@@ -272,3 +276,6 @@ trouver des ré  ferences cohérentes et pertinente avec ma vision de cette prat
 - **Problèmes rencontrés :**
 - **Prochaine étape :**
 - **Captures / liens :**
+
+
+
